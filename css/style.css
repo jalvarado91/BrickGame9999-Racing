@@ -1,0 +1,23 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+canvas {
+  background-color: #141414;
+}
+
+button {
+  position: fixed;
+  background: #14b366;
+  border: none;
+  color: white;
+  padding: 7px 15px;
+  top: 10px;
+  left: 10px;
+}
+button:hover {
+  background: #34ba77;
+}
